@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @DiaR21
 - 🌱 I’m currently learning ...
 - Desarrollo en  Java , y  modelos de IA
-- 
-
+- :octocat:
 
 - 💞️ I’m looking to collaborate on ...
 
