@@ -1,4 +1,4 @@
-Que tal! Soy Diana Lizbeth 
+Que tal! Yo soy Diana Lizbeth 
  
 - ❤️ IPN - Ing. Matemática 
 - 🌟 IPN -  M. Cs. Ing. de Sistemas
